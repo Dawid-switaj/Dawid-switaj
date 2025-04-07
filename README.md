@@ -27,7 +27,7 @@
 - 🏗️ Building robust data pipelines and ETL processes
 - 🔍 Solving business challenges through data-driven approaches
 
-🌟 **Check out my projects below!**
+📌 **Check out my projects below!**
 ---
 
 ## 📣 Let's Connect!
