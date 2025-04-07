@@ -1,6 +1,6 @@
 # Hey there! 👋 I'm Dawid Świtaj  
 
-### Junior Data Analyst | Travel Enthusiast | Excel, PowerBi, Tableau, SQL, Python
+### Junior Data Analyst | Excel, PowerBi, Tableau, SQL, Python
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=00AEEF&size=22&center=true&vCenter=true&width=600&lines=Curious+Learner+%7C+Power+BI+%26+Tableau;Data+Explorer+%7C+SQL+%26+Python;Growth+Mentality+%7C+Excel" alt="Typing SVG">
