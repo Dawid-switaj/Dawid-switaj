@@ -1,9 +1,9 @@
 # Hey there! 👋 I'm Dawid Świtaj  
 
-### Junior Data Analyst | Travel Enthusiast | SQL, Python & BI Tools 
+### Junior Data Analyst | Travel Enthusiast | Excel, PowerBi, Tableau, SQL, Python
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00AEEF&size=22&center=true&vCenter=true&width=600&lines=Tech+Enthusiast+%7C+Curious+Learner;Data+Explorer+%7C+Python+%7C+SQL;Growth+Mentality+%7C+One+Step+at+a+Time" alt="Typing SVG">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00AEEF&size=22&center=true&vCenter=true&width=600&lines=Power+BI+%26+Tableau+%7C+Curious+Learner;Data+Explorer+%7C+Python+%7C+SQL;Growth+Mentality+%7C+Excel" alt="Typing SVG">
 </p>
 
 ---
