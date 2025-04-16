@@ -11,7 +11,7 @@
 ## 🌱 About Me
 
 👋 Hey! I'm Dawid, just starting my tech journey. Right now I'm:
-- 🧠 **Learning** the basics of Excel, PowerBi, SQL & Python
+- 🧠 **Learning** Excel, PowerBi, SQL & Python
 - ❓ **Exploring** different areas to find what excites me
 - 🤔 **Making mistakes** (and learning from them!)
 - 🌟 **Celebrating small wins** - like getting my first script to run
